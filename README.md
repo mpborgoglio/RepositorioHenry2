@@ -1,2 +1,2 @@
 # RepositorioHenry2
-repositorio homework
+repositorio homework terminal, git, github
